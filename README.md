@@ -1,1 +1,1 @@
-# chit-chat
+# mern-chat-app
